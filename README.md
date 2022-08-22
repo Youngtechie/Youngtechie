@@ -13,5 +13,5 @@
 
 ---
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=youngtechie&show_icons=true&include_all_commits=true&hide_border=true" alt="Bolaji's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=youngtechie&langs_count=8&layout=compact&hide_border=true" alt="Youngtechie's GitHub stats" /> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=youngtechie&show_icons=true&include_all_commits=true&hide_border=true" alt="Youngtechie's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=youngtechie&langs_count=8&layout=compact&hide_border=true" alt="Youngtechie's GitHub stats" /> |
 | ------------- | ------------- |
