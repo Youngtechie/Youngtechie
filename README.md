@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning JavaScript, Reactjs.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Software Engineer, Front Engineer.
-- 📫 You can [view my resume](#) and contact me by emailing mailto:olaegbeolamilekan@gmail.com
+- 📫 You can [view my resume](#) and contact me by emailing mailtoolaegbeolamilekan1@gmail.com
 
 ---
 
